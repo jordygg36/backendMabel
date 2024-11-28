@@ -1,0 +1,17 @@
+{
+    "DevConfig":{
+        "service":{
+            "host":"localhost",
+            "port":3000
+        },
+    "db":{
+        "host":"localhost",
+        "name":"imagenes",
+            "port":2424,
+            "user":"root",
+            "password":"2828",
+            "rootUser":"root",
+            "rootPassword":"2828"
+    }
+}
+}
